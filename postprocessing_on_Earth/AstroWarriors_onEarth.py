@@ -1,5 +1,5 @@
 # Code to run on Earth - AstroPi competition 2018/2019
-# program written by Turtlez Team from Jaslo (Poland) for
+# program written by AstroWarriors Team from Jaslo (Poland) for
 # AstroPi competition 2018/2019
 # Team Members: Dawid Domaslawski, Julia Kosiek, Kinga Moskal
 # Teachers: Jadwiga Moskal
